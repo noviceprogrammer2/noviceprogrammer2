@@ -1,6 +1,6 @@
 
-[![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=noviceprogrammer2)](https://github.com/anuraghazra/github-readme-stats)
-
+![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=noviceprogrammer2&theme=vision-friendly-dark)(https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 <!--
 **noviceprogrammer2/noviceprogrammer2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
