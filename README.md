@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/)
 
-- 🌱 I’m currently learning **Python, HTML, CSS, React, Node.js**
+- 🌱 I’m currently learning **Python, HTML, CSS, JavaScript, React, Node.js**
 
 - 📫 How to reach me **simonsbrian91@gmail.com**
 
